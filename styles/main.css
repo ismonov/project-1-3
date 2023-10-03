@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+	font-size: 175%;
+	color: #9bc274;
+    text-indent: 30px;
+}
+
+header p {
+    font-size: 125%;
+	color: #9bc274;
+    margin-left: 30px;
+    margin-right: 60px;
+}
+
+nav a {
+    font-size: 150%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3 {
+	font-size: 125%;
+	color: #9bc274;
+}
+
+ol li {
+    font-weight: bold;
+    font-size: 125%;
+	color: #646458;
+}
